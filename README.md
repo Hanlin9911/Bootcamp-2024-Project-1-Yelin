@@ -16,6 +16,7 @@ Viewers/users will need to change the path (in step 1 and 2) or replace all the 
 
 ### `by_field_1` - cleaned pd.dataframe from `field` or `by_field`(98 rows * 5 columns, 0 Null)
 Columns:
+
 0. Undergrade(o): Field of study
 1. Applicants(int64): Count of applicants
 2. Registered Students(int64): Count of registered students
@@ -24,6 +25,7 @@ Columns:
 
 ### `by_region_1` - cleaned pd.dataframe from `region` or `by_region` (42 rows * 9 columns, 0 Null)
 Columns:
+
 0. Region(o): Canada, Overseas, -Not Reported, Quebec, Total, USA
 1. Undergrade(float64): Count of undergrade students
 2. Undergrade Rate(float64): Percentage of undergrades in total
